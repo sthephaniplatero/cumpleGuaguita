@@ -1,5 +1,5 @@
 const title = document.querySelector('.title')
-const text = `y aunq este lejos tengo un mensaje!`.split('')
+const text = `y aunq este lejos , las flores no pueden faltar !`.split('')
 
 // Create container for better responsive layout
 title.style.display = 'flex'
